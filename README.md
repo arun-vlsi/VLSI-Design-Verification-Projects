@@ -9,10 +9,10 @@ Welcome to the **VLSI Design Verification Projects** repository! This collection
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
-- [Repository Structure].(#Repository-Structure)
-- [Verification Methodology].(#Verification-Methodology)
-- [How to Run Simulation].(#How to Run Simulation)
-- [Test Plan].(#Test-Plan)
+- ## Repository-Structure
+- ## Verification Methodology
+- ## How to Run Simulation
+- ## Test Plan
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [How to Run the Projects](#how-to-run-the-projects)
