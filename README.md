@@ -207,3 +207,4 @@ Thank you for visiting the **VLSI Design Verification Projects** repository! Exp
 [![Visit Releases](https://img.shields.io/badge/Visit%20Releases-Here-blue.svg)](https://github.com/BegangLive/VLSI-Design-Verification-Projects/releases)
 [![Visit Releases](https://img.shields.io/badge/Visit%20Releases-Here-blue.svg)](https://github.com/BegangLive/VLSI-Design-Verification-Projects/releases)
 [![Visit Releases](https://img.shields.io/badge/Visit%20Releases-Here-blue.svg)](https://github.com/BegangLive/VLSI-Design-Verification-Projects/releases)
+[![Visit Releases](https://img.shields.io/badge/Visit%20Releases-Here-blue.svg)](https://github.com/BegangLive/VLSI-Design-Verification-Projects/releases)
