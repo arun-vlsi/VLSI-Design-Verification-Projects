@@ -117,8 +117,6 @@ VLSI-Design-Verification-Projects/
 
 Each project directory contains a README file that provides details about the specific project, including setup instructions and usage.
 
-## Contributions
-Contributions in the form of documentation improvements, design explanations, test plans, diagrams, and verification enhancements are welcome.
 
 ## Getting Started
 
@@ -206,5 +204,6 @@ For any inquiries or feedback, please contact:
 
 Thank you for visiting the **VLSI Design Verification Projects** repository! Explore the projects, learn, and contribute to the community. 
 
+[![Visit Releases](https://img.shields.io/badge/Visit%20Releases-Here-blue.svg)](https://github.com/BegangLive/VLSI-Design-Verification-Projects/releases)
 [![Visit Releases](https://img.shields.io/badge/Visit%20Releases-Here-blue.svg)](https://github.com/BegangLive/VLSI-Design-Verification-Projects/releases)
 [![Visit Releases](https://img.shields.io/badge/Visit%20Releases-Here-blue.svg)](https://github.com/BegangLive/VLSI-Design-Verification-Projects/releases)
