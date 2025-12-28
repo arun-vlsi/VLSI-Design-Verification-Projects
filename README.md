@@ -9,6 +9,10 @@ Welcome to the **VLSI Design Verification Projects** repository! This collection
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
+- [Repository Structure](#repository-structure)
+- [Verification Methodology](#verification-methodology)
+- [How to Run Simulation](#how-to-run-simulation)
+- [Test Plan](#test-plan)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [How to Run the Projects](#how-to-run-the-projects)
@@ -16,11 +20,14 @@ Welcome to the **VLSI Design Verification Projects** repository! This collection
 - [License](#license)
 - [Contact](#contact)
 
+
 ## Introduction
 
 VLSI (Very Large Scale Integration) design is a critical aspect of modern electronics. This repository aims to provide practical examples of design verification using various methodologies. By engaging with these projects, you will gain hands-on experience and deepen your understanding of verification techniques.
 
 ## Project Overview
+
+This repository contains a collection of VLSI Design and Verification projects implemented using Verilog, SystemVerilog, and UVM concepts. The projects are intended to help learners and aspiring engineers understand RTL design principles, verification methodologies, and real-world hardware design practices.
 
 This repository contains a collection of projects that demonstrate the following concepts:
 
@@ -31,6 +38,7 @@ This repository contains a collection of projects that demonstrate the following
 
 These projects are suitable for students, educators, and professionals looking to sharpen their skills in VLSI design verification.
 
+
 ## Technologies Used
 
 The projects in this repository utilize the following technologies:
@@ -40,6 +48,48 @@ The projects in this repository utilize the following technologies:
 - **RTL (Register Transfer Level)**: A design abstraction that describes the operation of a digital circuit.
 - **UVM (Universal Verification Methodology)**: A standardized methodology for verifying integrated circuit designs.
 - **ModelSim**: A simulation tool for verifying HDL designs.
+
+
+## Repository Structure
+
+The repository is organized to separate design and verification components for better readability and understanding.
+
+- RTL/              : Contains Verilog/SystemVerilog design modules
+- Verification/     : Contains testbenches and verification environments
+- Projects/         : Individual design and verification case studies
+- Docs/             : Supporting documentation and explanations (if applicable)
+  
+
+## Verification Methodology
+
+The verification approach used in this repository focuses on validating functional correctness through a combination of directed and constrained-random testing. Testbenches are written using SystemVerilog and UVM concepts where applicable.
+
+Verification includes checking:
+- Correct functional behavior
+- Reset conditions
+- Corner cases and boundary scenarios
+- Protocol or timing-related behavior (where applicable)
+  
+
+## How to Run Simulation
+
+The projects in this repository can be simulated using standard RTL simulators such as Questa, VCS, Verilator, or any compatible tool.
+
+General steps:
+1. Compile the RTL design files along with the corresponding testbench files.
+2. Run the simulation using the chosen simulator.
+3. Observe simulation logs and waveforms to verify functional correctness.
+
+
+## Test Plan
+
+A basic verification plan is followed for the designs in this repository, which includes:
+
+- Verification of basic functionality
+- Reset behavior validation
+- Boundary and corner case testing
+- Error condition checks where applicable
+
 
 ## Project Structure
 
@@ -66,6 +116,7 @@ VLSI-Design-Verification-Projects/
 ```
 
 Each project directory contains a README file that provides details about the specific project, including setup instructions and usage.
+
 
 ## Getting Started
 
@@ -153,4 +204,7 @@ For any inquiries or feedback, please contact:
 
 Thank you for visiting the **VLSI Design Verification Projects** repository! Explore the projects, learn, and contribute to the community. 
 
+[![Visit Releases](https://img.shields.io/badge/Visit%20Releases-Here-blue.svg)](https://github.com/BegangLive/VLSI-Design-Verification-Projects/releases)
+[![Visit Releases](https://img.shields.io/badge/Visit%20Releases-Here-blue.svg)](https://github.com/BegangLive/VLSI-Design-Verification-Projects/releases)
+[![Visit Releases](https://img.shields.io/badge/Visit%20Releases-Here-blue.svg)](https://github.com/BegangLive/VLSI-Design-Verification-Projects/releases)
 [![Visit Releases](https://img.shields.io/badge/Visit%20Releases-Here-blue.svg)](https://github.com/BegangLive/VLSI-Design-Verification-Projects/releases)
